@@ -28,4 +28,4 @@ Example command to run:
 
 ![Needham-Schroeder Protocol](https://github.com/Rahul240499/Needham-Schroeder-protocol/blob/main/needham_schroder_protocol_update.jpeg)
 
-*Image Reference: "Cryptography and Network Security: Principles and Practice" by William Stallings*
+Image Reference: *Cryptography & Network Security, by Debdeep Mukhopadhyay & Behrouz A Forouzan*
