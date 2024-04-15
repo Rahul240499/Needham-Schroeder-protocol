@@ -26,6 +26,6 @@ Example command to run:
 
 **Reference Image:**
 
-![Needham-Schroeder Protocol](needham-schroeder-protocol.png)
+![Needham-Schroeder Protocol](https://raw.githubusercontent.com/Rahul240499/Needham-Schroeder-protocol/needham_schroder_protocol_update.jpeg)
 
 *Image Reference: "Cryptography and Network Security: Principles and Practice" by William Stallings*
